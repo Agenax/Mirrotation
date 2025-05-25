@@ -2,4 +2,4 @@ I made a more practical design for couplers. I can't publish the models yet, bec
 They are better than the previous one because they are magnetic. Magnets makes it easier to connect and disconnect.
 
 Here's the thing : 
-![image](https://github.com/Agenax/Mirrotation/blob/main/Hardware/Newcpl/MagCpl.jpg)
+![image](Hardware/Newcpl/MagCpl.jpg)
