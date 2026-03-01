@@ -2,6 +2,8 @@
 ### Mirrotation is the first auto-collimation adaptable device for Newtonian style telescope ever made. 
 It makes the collimation of Newtonian telescopes easier and enables newtonians telescopes to reach their full potential.
 
+Support my works here : https://buymeacoffee.com/agenax (hardware isn't free)
+
 ![image](https://github.com/Agenax/Mirrotation/blob/21b14f061d8197b1365d4b7c5a7ff812aed6364b/other/image.png)
 
 Mirrotation can fit on every Newtonian telescope with a diameter from 150mm to 400mm :
